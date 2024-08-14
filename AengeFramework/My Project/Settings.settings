@@ -1,0 +1,159 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Application" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Autohidro</Value>
+    </Setting>
+    <Setting Name="Cab_File" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CAB_APPLICATION</Value>
+    </Setting>
+    <Setting Name="File_Autoenge" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Autoenge.cfg</Value>
+    </Setting>
+    <Setting Name="Folder_Dwg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DWG\</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9.1</Value>
+    </Setting>
+    <Setting Name="Bar_Lisp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\</Value>
+    </Setting>
+    <Setting Name="Index_IconDwg" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Index_IconFolder" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Text_PaletteProject" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> - Projetos</Value>
+    </Setting>
+    <Setting Name="Text_PaletteQdc" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FolderApwr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">APWR\</Value>
+    </Setting>
+    <Setting Name="FolderAhid" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AHID\</Value>
+    </Setting>
+    <Setting Name="File_ProjectCfg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PROJETO.cfg</Value>
+    </Setting>
+    <Setting Name="FolderCom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">COM\</Value>
+    </Setting>
+    <Setting Name="FolderApp_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AHID</Value>
+    </Setting>
+    <Setting Name="Help_FileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Ahid.chm</Value>
+    </Setting>
+    <Setting Name="Calc_Area_Eletroduto_Minima" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">44.9</Value>
+    </Setting>
+    <Setting Name="CircAuto_IniCondutor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0600</Value>
+    </Setting>
+    <Setting Name="CircAuto_EndCondutor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0699</Value>
+    </Setting>
+    <Setting Name="CircAuto_DefaultCondutor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">000600</Value>
+    </Setting>
+    <Setting Name="CharEndFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[</Value>
+    </Setting>
+    <Setting Name="Application_AutoCad" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AutoCAD.Application.24.0</Value>
+    </Setting>
+    <Setting Name="AcadTemplate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">acad.dwt</Value>
+    </Setting>
+    <Setting Name="AhidName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Autohidro</Value>
+    </Setting>
+    <Setting Name="AhidRelease" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9.1</Value>
+    </Setting>
+    <Setting Name="frmLoading_Default" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Informações gerais</Value>
+    </Setting>
+    <Setting Name="frmLoading_DefaultNull" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Processando dados. Aguarde por favor até o sistema terminar a execução dos dados...</Value>
+    </Setting>
+    <Setting Name="frmLoading_Timer" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="Extension_Img" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.bmp</Value>
+    </Setting>
+    <Setting Name="ExtensionCompl_Img" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">_sample</Value>
+    </Setting>
+    <Setting Name="PreviewWidth" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">400</Value>
+    </Setting>
+    <Setting Name="PreviewHeight" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="frmExisteDesenho_MsgNoPreview" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">A visualização do projeto ainda não foi criada. Aguarde a próxima abertura!</Value>
+    </Setting>
+    <Setting Name="Aplication_AutoCadName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AutoCad</Value>
+    </Setting>
+    <Setting Name="FontDefault" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Segoe UI</Value>
+    </Setting>
+    <Setting Name="FontDefaultSize" Type="System.Single" Scope="Application">
+      <Value Profile="(Default)">8.25</Value>
+    </Setting>
+    <Setting Name="CodeApplication" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1205_2015</Value>
+    </Setting>
+    <Setting Name="NoImage_Preview" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NoImage_sample.bmp</Value>
+    </Setting>
+    <Setting Name="frmLoading_TimerDimens" Type="System.Byte" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="frmCircuitoInfo_LSInterrup" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Interruptor sem nenhum luminária relacionada</Value>
+    </Setting>
+    <Setting Name="frmCircuitoInfo_LSLumin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Luminária sem interruptor</Value>
+    </Setting>
+    <Setting Name="ClassExclude_EditAtt_Ang" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">|0201|</Value>
+    </Setting>
+    <Setting Name="Text_PaletteAgenda" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> - Lembretes</Value>
+    </Setting>
+    <Setting Name="OfficePack2010_64" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MDED_2010.exe</Value>
+    </Setting>
+    <Setting Name="NameProcess" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AHIDVBA</Value>
+    </Setting>
+    <Setting Name="WinVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">64</Value>
+    </Setting>
+    <Setting Name="CodObj_LastSymbolDefault" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">4062</Value>
+    </Setting>
+    <Setting Name="ReportViewer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ReportViewer.exe</Value>
+    </Setting>
+    <Setting Name="SetSecureLoad" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">T</Value>
+    </Setting>
+    <Setting Name="VarSys_CLAYER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CLAYER</Value>
+    </Setting>
+    <Setting Name="FileIniApp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">IniApp.ini</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

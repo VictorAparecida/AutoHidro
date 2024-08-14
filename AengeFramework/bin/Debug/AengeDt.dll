@@ -1,0 +1,41 @@
+CODSYMB||CLASSE|DESCR|??????|DWGFILE
+000007|1500|VASOS|Bacia com caixa acoplada - lateral|AHID_RIT12|AHID_RIT12.dwg|
+000005|1500|VASOS|Bacia com caixa acoplada|AHID_WIN13|AHID_WIN13.dwg|
+000005|1500|VASOS|Bacia com caixa acoplada - frontal|AHID_WIN14|AHID_WIN14.dwg|
+000005|1500|VASOS|Bacia com caixa acoplada - lateral|AHID_WIN15|AHID_WIN15.dwg|
+000007|1500|VASOS|Bacia com caixa acoplada - frontal|AHID_RIT11|AHID_RIT11.dwg|
+000007|1500|VASOS|Bacia com caixa acoplada|AHID_RIT10|AHID_RIT10.dwg|
+000004|1500|VASOS|Bacia com caixa acoplada linha arredondada|AHID_2604PLA|AHID_2604PLA.dwg|
+000004|1500|VASOS|Bacia com caixa acoplada linha arredondada - frontal|AHID_2604FRO|AHID_2604FRO.dwg|
+000004|1500|VASOS|Bacia com caixa acoplada linha arredondada - lateral|AHID_2604LAT|AHID_2604LAT.dwg|
+000006|1500|VASOS|Bacia com caixa acoplada linha quadrada - lateral|AHID_1706LAT|AHID_1706LAT.dwg|
+000006|1500|VASOS|Bacia com caixa acoplada linha quadrada|AHID_1706PLA|AHID_1706PLA.dwg|
+000006|1500|VASOS|Bacia com caixa acoplada linha quadrada - frontal|AHID_1706FRO|AHID_1706FRO.dwg|
+000003|1500|VASOS|Bacia convencional|AHID_RAV10|AHID_RAV10.dwg|
+000001|1500|VASOS|Bacia convencional - lateral|AHID_BEL12|AHID_BEL12.dwg|
+000003|1500|VASOS|Bacia convencional - lateral|AHID_RAV12|AHID_RAV12.dwg|
+000001|1500|VASOS|Bacia convencional|AHID_BEL10|AHID_BEL10.dwg|
+000003|1500|VASOS|Bacia convencional - frontal|AHID_RAV11|AHID_RAV11.dwg|
+000001|1500|VASOS|Bacia convencional - frontal|AHID_BEL11|AHID_BEL11.dwg|
+000002|1500|VASOS|Bacia convencional linha Arredondada  - frontal|AHID_2602FRO|AHID_2602FRO.dwg|
+000002|1500|VASOS|Bacia convencional linha Arredondada  - lateral|AHID_2602LAT|AHID_2602LAT.dwg|
+000002|1500|VASOS|Bacia convencional linha Arredondada |AHID_2602PLA|AHID_2602PLA.dwg|
+000014|1503|BACIA TURCA|Bacia turca|AHID_BACTURP|AHID_BACTURP.dwg|
+000008|1501|BIDÊS|Bidê com três furos|AHID_BEL07|AHID_BEL07.dwg|
+000008|1501|BIDÊS|Bidê com três furos - frontal|AHID_BEL08|AHID_BEL08.dwg|
+000008|1501|BIDÊS|Bidê com três furos - lateral|AHID_BEL09|AHID_BEL09.dwg|
+000009|1501|BIDÊS|Bidê linha arredondada|AHID_2612PLA|AHID_2612PLA.dwg|
+000009|1501|BIDÊS|Bidê linha arredondada - frontal|AHID_2612FRO|AHID_2612FRO.dwg|
+000009|1501|BIDÊS|Bidê linha arredondada - lateral|AHID_2612LAT|AHID_2612LAT.dwg|
+000010|1501|BIDÊS|Bidê linha quadrada|AHID_2412PLA|AHID_2412PLA.dwg|
+000010|1501|BIDÊS|Bidê linha quadrada - frontal|AHID_2412FRO|AHID_2412FRO.dwg|
+000010|1501|BIDÊS|Bidê linha quadrada - lateral|AHID_2412LAT|AHID_2412LAT.dwg|
+000012|1502|MICTÓRIOS|Mictório com sifão externo|AHID_MIC01|AHID_MIC01.dwg|
+000012|1502|MICTÓRIOS|Mictório com sifão externo - frontal|AHID_MIC02|AHID_MIC02.dwg|
+000012|1502|MICTÓRIOS|Mictório com sifão externo - lateral|AHID_MIC03|AHID_MIC03.dwg|
+000013|1502|MICTÓRIOS|Mictório com sifão interno|AHID_MIC04|AHID_MIC04.dwg|
+000013|1502|MICTÓRIOS|Mictório com sifão interno - frontal|AHID_MIC05|AHID_MIC05.dwg|
+000013|1502|MICTÓRIOS|Mictório com sifão interno - lateral|AHID_MIC06|AHID_MIC06.dwg|
+000011|1502|MICTÓRIOS|Mictório linha arredondada - lateral|AHID_3811LAT|AHID_3811LAT.dwg|
+000011|1502|MICTÓRIOS|Mictório linha arredondada - frontal|AHID_3811FRO|AHID_3811FRO.dwg|
+000011|1502|MICTÓRIOS|Mictório linha arredondada|AHID_3811PLA|AHID_3811PLA.dwg|

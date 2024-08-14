@@ -1,0 +1,332 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AHID
+</name>
+</assembly>
+<members>
+<member name="M:AHID.WSCodeAuto2018.Service.#ctor">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerie_RegistradoClienteCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerie_TentativaRegistroClienteCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.CloseAllConnCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.GetInfo_OnLineApwrDoorCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.GetInfo_LastUpdateOnLineApwr2018Completed">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.GetInfo_LastUpdateOnLineAhid2018Completed">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.RegisterDllCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSCodeAutorization_REvalCodeCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSCodeAutorization_FreeRegisterCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSCodeAutorization_BlockSerialCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAppPathCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSCodeAutorization_HomologationCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAppWebCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSTrial_GeneratorCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_InsereRegistroCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_AtualizaRegistroCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_LiberaRegistroCompleted">
+	<remarks/>
+</member><member name="E:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValAssignCompleted">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerie_RegistradoCliente(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerie_RegistradoClienteAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerie_RegistradoClienteAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerie_TentativaRegistroCliente(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerie_TentativaRegistroClienteAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerie_TentativaRegistroClienteAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.CloseAllConn">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.CloseAllConnAsync">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.CloseAllConnAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_OnLineApwrDoor(System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_OnLineApwrDoorAsync(System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_OnLineApwrDoorAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_LastUpdateOnLineApwr2018(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_LastUpdateOnLineApwr2018Async(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_LastUpdateOnLineApwr2018Async(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_LastUpdateOnLineAhid2018(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_LastUpdateOnLineAhid2018Async(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.GetInfo_LastUpdateOnLineAhid2018Async(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.RegisterDll">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.RegisterDllAsync">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.RegisterDllAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_Validation(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_REvalCode(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_REvalCodeAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_REvalCodeAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_FreeRegister(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_FreeRegisterAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_FreeRegisterAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_BlockSerial(System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_BlockSerialAsync(System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_BlockSerialAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAppPath">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAppPathAsync">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAppPathAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_Homologation(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_HomologationAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_HomologationAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAppWeb(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAppWebAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValidationAppWebAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSTrial_Generator(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSTrial_GeneratorAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSTrial_GeneratorAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_InsereRegistro(System.Object[])">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_InsereRegistroAsync(System.Object[])">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_InsereRegistroAsync(System.Object[],System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_AtualizaRegistro(System.Object[])">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_AtualizaRegistroAsync(System.Object[])">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_AtualizaRegistroAsync(System.Object[],System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_LiberaRegistro(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_LiberaRegistroAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WsAutoengeDefault_NroSerial_LiberaRegistroAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValAssign(System.String,System.String,System.String,System.String,System.String,System.DateTime)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValAssignAsync(System.String,System.String,System.String,System.String,System.String,System.DateTime)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.WSCodeAutorization_ValAssignAsync(System.String,System.String,System.String,System.String,System.String,System.DateTime,System.Object)">
+	<remarks/>
+</member><member name="M:AHID.WSCodeAuto2018.Service.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.Service">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerie_RegistradoClienteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerie_RegistradoClienteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerie_RegistradoClienteCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerie_TentativaRegistroClienteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerie_TentativaRegistroClienteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerie_TentativaRegistroClienteCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.CloseAllConnCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.CloseAllConnCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.CloseAllConnCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.GetInfo_OnLineApwrDoorCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.GetInfo_OnLineApwrDoorCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.GetInfo_OnLineApwrDoorCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.GetInfo_LastUpdateOnLineApwr2018CompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.GetInfo_LastUpdateOnLineApwr2018CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.GetInfo_LastUpdateOnLineApwr2018CompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.GetInfo_LastUpdateOnLineAhid2018CompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.GetInfo_LastUpdateOnLineAhid2018CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.GetInfo_LastUpdateOnLineAhid2018CompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.RegisterDllCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.RegisterDllCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.RegisterDllCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_REvalCodeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSCodeAutorization_REvalCodeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_REvalCodeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_FreeRegisterCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSCodeAutorization_FreeRegisterCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_FreeRegisterCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_BlockSerialCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSCodeAutorization_BlockSerialCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_BlockSerialCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationAppPathCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationAppPathCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationAppPathCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_HomologationCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSCodeAutorization_HomologationCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_HomologationCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationAppWebCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationAppWebCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_ValidationAppWebCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSTrial_GeneratorCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSTrial_GeneratorCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSTrial_GeneratorCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_InsereRegistroCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_InsereRegistroCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_InsereRegistroCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_AtualizaRegistroCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_AtualizaRegistroCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_AtualizaRegistroCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_LiberaRegistroCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_LiberaRegistroCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WsAutoengeDefault_NroSerial_LiberaRegistroCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_ValAssignCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AHID.WSCodeAuto2018.WSCodeAutorization_ValAssignCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AHID.WSCodeAuto2018.WSCodeAutorization_ValAssignCompletedEventArgs">
+	<remarks/>
+</member><member name="P:AHID.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources._1380583269_preferences">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.Fechar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.Fundo_2015_Splash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.Fundo_2018">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.Logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.pin_green">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.pin_green1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.Selecionar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AHID.My.Resources.Resources.seta_azul">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AHID.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

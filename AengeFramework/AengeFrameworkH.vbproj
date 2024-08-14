@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A45561E-4827-4453-B803-B272B30BCB05}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AengeFrameworkH</RootNamespace>
+    <AssemblyName>AengeFrameworkH</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AengeFrameworkH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AengeFrameworkH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AcCoreMgd">
+      <HintPath>..\..\..\..\..\..\SDK Diversos\Autodesk_ObjectARX_2021_Win_64\inc\AcCoreMgd.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="AcDbMgd">
+      <HintPath>..\..\..\..\..\..\SDK Diversos\Autodesk_ObjectARX_2021_Win_64\inc\AcDbMgd.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="AcMgd">
+      <HintPath>..\..\..\..\..\..\SDK Diversos\Autodesk_ObjectARX_2021_Win_64\inc\AcMgd.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Aenge.Library.Component">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\Aenge.Library.Component.dll</HintPath>
+    </Reference>
+    <Reference Include="Aenge.Library.Db">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\Aenge.Library.Db.dll</HintPath>
+    </Reference>
+    <Reference Include="AhidBLL">
+      <HintPath>..\..\..\AhidBLL\AhidBLL\bin\Debug\AhidBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDBOMB">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDBOMB.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDCDIA">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDCDIA.DLL</HintPath>
+    </Reference>
+    <Reference Include="AHIDCESG">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDCESG.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDCONFIG">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDCONFIG.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDCRES">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDCRES.DLL</HintPath>
+    </Reference>
+    <Reference Include="AHIDCSEL">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDCSEL.DLL</HintPath>
+    </Reference>
+    <Reference Include="AHIDDIMAF">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDDIMAF.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDDRAM">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDDRAM.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDEDIF">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDEDIF.DLL</HintPath>
+    </Reference>
+    <Reference Include="AHIDGAS">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDGAS.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDHIDM">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDHIDM.DLL</HintPath>
+    </Reference>
+    <Reference Include="AHIDPLUV">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDPLUV.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDPRJMG">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDPRJMG.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDRINC">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDRINC.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDSCH">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDSCH.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDSPRI, Version=1.0.6250.18108, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\AutoHIDRO 2017\AHIDSPRI.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDTHOM">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDTHOM.dll</HintPath>
+    </Reference>
+    <Reference Include="AHIDTQSEP">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\AHIDTQSEP.dll</HintPath>
+    </Reference>
+    <Reference Include="Library_FrameworKAP">
+      <HintPath>C:\Program Files\AutoHIDRO 2015\Library_FrameworKAP.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.vb" />
+    <Compile Include="Class\ApwrCss.vb" />
+    <Compile Include="Class\LibraryCad.vb" />
+    <Compile Include="Class\LibraryCommand.vb" />
+    <Compile Include="Class\LibraryConnection.vb" />
+    <Compile Include="Class\LibraryError.vb" />
+    <Compile Include="Class\LibraryHidrante.vb" />
+    <Compile Include="Class\LibraryReference.vb" />
+    <Compile Include="Class\LibraryRegister.vb" />
+    <Compile Include="Class\LibraryVBA.vb" />
+    <Compile Include="DataSource\DsSource.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsSource.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Cad Forms\frmDeleteSymbol.designer.vb">
+      <DependentUpon>frmDeleteSymbol.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Cad Forms\frmDeleteSymbol.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Cad Forms\frmLineType.designer.vb">
+      <DependentUpon>frmLineType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Cad Forms\frmLineType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Default\frmConfigAbert.designer.vb">
+      <DependentUpon>frmConfigAbert.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Default\frmConfigAbert.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Default\FrmConfirm.designer.vb">
+      <DependentUpon>FrmConfirm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Default\FrmConfirm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Default\frmDiagnostic.designer.vb">
+      <DependentUpon>frmDiagnostic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Default\frmDiagnostic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Default\frmImport.designer.vb">
+      <DependentUpon>frmImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Default\frmImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Default\frmLoading.designer.vb">
+      <DependentUpon>frmLoading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Default\frmLoading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Default\frmTarefa.designer.vb">
+      <DependentUpon>frmTarefa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Default\frmTarefa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Default\UsrCGeneral.designer.vb">
+      <DependentUpon>UsrCGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Default\UsrCGeneral.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form\Hidrantes\frmCalcHidrante.designer.vb">
+      <DependentUpon>frmCalcHidrante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Hidrantes\frmCalcHidrante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Hidrantes\frmCalcHidranteTypes.designer.vb">
+      <DependentUpon>frmCalcHidranteTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Hidrantes\frmCalcHidranteTypes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Homologation\frmHomologation.designer.vb">
+      <DependentUpon>frmHomologation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Homologation\frmHomologation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Inicializacao\frmExisteDesenho.designer.vb">
+      <DependentUpon>frmExisteDesenho.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Inicializacao\frmExisteDesenho.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Inicializacao\frmInicial.designer.vb">
+      <DependentUpon>frmInicial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Inicializacao\frmInicial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Inicializacao\frmNovoDesenho.designer.vb">
+      <DependentUpon>frmNovoDesenho.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Inicializacao\frmNovoDesenho.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Legenda\frmLegenda.designer.vb">
+      <DependentUpon>frmLegenda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Legenda\frmLegenda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Legenda\frmLegendaNum.designer.vb">
+      <DependentUpon>frmLegendaNum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Legenda\frmLegendaNum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Symbol Editor\frmEditorSymbol.designer.vb">
+      <DependentUpon>frmEditorSymbol.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Symbol Editor\frmEditorSymbol.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\Component_Library.vb" />
+    <Compile Include="Module\ModFramework.vb" />
+    <Compile Include="Module\ModHelp.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UserControl\UsrC_General.designer.vb">
+      <DependentUpon>UsrC_General.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UsrC_General.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UsrC_Info.designer.vb">
+      <DependentUpon>UsrC_Info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UsrC_Info.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UsrC_Project.designer.vb">
+      <DependentUpon>UsrC_Project.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UsrC_Project.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\Cad Forms\frmDeleteSymbol.resx">
+      <DependentUpon>frmDeleteSymbol.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Cad Forms\frmLineType.resx">
+      <DependentUpon>frmLineType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Default\frmConfigAbert.resx">
+      <DependentUpon>frmConfigAbert.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Default\FrmConfirm.resx">
+      <DependentUpon>FrmConfirm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Default\frmDiagnostic.resx">
+      <DependentUpon>frmDiagnostic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Default\frmImport.resx">
+      <DependentUpon>frmImport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Default\frmLoading.resx">
+      <DependentUpon>frmLoading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Default\frmTarefa.resx">
+      <DependentUpon>frmTarefa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Default\UsrCGeneral.resx">
+      <DependentUpon>UsrCGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Hidrantes\frmCalcHidrante.resx">
+      <DependentUpon>frmCalcHidrante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Hidrantes\frmCalcHidranteTypes.resx">
+      <DependentUpon>frmCalcHidranteTypes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Homologation\frmHomologation.resx">
+      <DependentUpon>frmHomologation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Inicializacao\frmExisteDesenho.resx">
+      <DependentUpon>frmExisteDesenho.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Inicializacao\frmInicial.resx">
+      <DependentUpon>frmInicial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Inicializacao\frmNovoDesenho.resx">
+      <DependentUpon>frmNovoDesenho.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Legenda\frmLegenda.resx">
+      <DependentUpon>frmLegenda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Legenda\frmLegendaNum.resx">
+      <DependentUpon>frmLegendaNum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Symbol Editor\frmEditorSymbol.resx">
+      <DependentUpon>frmEditorSymbol.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UsrC_General.resx">
+      <DependentUpon>UsrC_General.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UsrC_Info.resx">
+      <DependentUpon>UsrC_Info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UsrC_Project.resx">
+      <DependentUpon>UsrC_Project.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DataSource\DsSource.xsc">
+      <DependentUpon>DsSource.xsd</DependentUpon>
+    </None>
+    <None Include="DataSource\DsSource.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsSource.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSource\DsSource.xss">
+      <DependentUpon>DsSource.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Library_Error">
+      <Guid>{97E340D3-1DD5-421C-81B4-4FD9670CFC9A}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBA">
+      <Guid>{000204EF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>9</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeblack32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete224x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete232x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Excel.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer232x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rename32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rename224x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\texto24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\texto32x32.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsSource" targetNamespace="http://tempuri.org/DsSource.xsd" xmlns:mstns="http://tempuri.org/DsSource.xsd" xmlns="http://tempuri.org/DsSource.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsSource" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsSource" msprop:Generator_DataSetName="DsSource" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCircuito" msprop:Generator_UserTableName="dtCircuito" msprop:Generator_RowDeletedName="dtCircuitoRowDeleted" msprop:Generator_RowChangedName="dtCircuitoRowChanged" msprop:Generator_RowClassName="dtCircuitoRow" msprop:Generator_RowChangingName="dtCircuitoRowChanging" msprop:Generator_RowEvArgName="dtCircuitoRowChangeEvent" msprop:Generator_RowEvHandlerName="dtCircuitoRowChangeEventHandler" msprop:Generator_TableClassName="dtCircuitoDataTable" msprop:Generator_TableVarName="tabledtCircuito" msprop:Generator_RowDeletingName="dtCircuitoRowDeleting" msprop:Generator_TablePropName="dtCircuito">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Circuito" msprop:Generator_UserColumnName="Circuito" msprop:Generator_ColumnVarNameInTable="columnCircuito" msprop:Generator_ColumnPropNameInRow="Circuito" msprop:Generator_ColumnPropNameInTable="CircuitoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Fase" msprop:Generator_UserColumnName="Fase" msprop:Generator_ColumnVarNameInTable="columnFase" msprop:Generator_ColumnPropNameInRow="Fase" msprop:Generator_ColumnPropNameInTable="FaseColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SecaoFase" msprop:Generator_UserColumnName="SecaoFase" msprop:Generator_ColumnVarNameInTable="columnSecaoFase" msprop:Generator_ColumnPropNameInRow="SecaoFase" msprop:Generator_ColumnPropNameInTable="SecaoFaseColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Neutro" msprop:Generator_UserColumnName="Neutro" msprop:Generator_ColumnVarNameInTable="columnNeutro" msprop:Generator_ColumnPropNameInRow="Neutro" msprop:Generator_ColumnPropNameInTable="NeutroColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SecaoNeutro" msprop:Generator_UserColumnName="SecaoNeutro" msprop:Generator_ColumnVarNameInTable="columnSecaoNeutro" msprop:Generator_ColumnPropNameInRow="SecaoNeutro" msprop:Generator_ColumnPropNameInTable="SecaoNeutroColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Terra" msprop:Generator_UserColumnName="Terra" msprop:Generator_ColumnVarNameInTable="columnTerra" msprop:Generator_ColumnPropNameInRow="Terra" msprop:Generator_ColumnPropNameInTable="TerraColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SecaoTerra" msprop:Generator_UserColumnName="SecaoTerra" msprop:Generator_ColumnVarNameInTable="columnSecaoTerra" msprop:Generator_ColumnPropNameInRow="SecaoTerra" msprop:Generator_ColumnPropNameInTable="SecaoTerraColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Condutor" msprop:Generator_UserColumnName="Condutor" msprop:Generator_ColumnVarNameInTable="columnCondutor" msprop:Generator_ColumnPropNameInRow="Condutor" msprop:Generator_ColumnPropNameInTable="CondutorColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IsTomada" msprop:Generator_UserColumnName="IsTomada" msprop:Generator_ColumnPropNameInRow="IsTomada" msprop:Generator_ColumnVarNameInTable="columnIsTomada" msprop:Generator_ColumnPropNameInTable="IsTomadaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IsInterrup" msprop:Generator_UserColumnName="IsInterrup" msprop:Generator_ColumnPropNameInRow="IsInterrup" msprop:Generator_ColumnVarNameInTable="columnIsInterrup" msprop:Generator_ColumnPropNameInTable="IsInterrupColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

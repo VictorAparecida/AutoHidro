@@ -1,0 +1,230 @@
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.dll.config
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.pdb
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.xml
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Component.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Db.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDBOMB.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCDIA.DLL
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCESG.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCONFIG.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCRES.DLL
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCSEL.DLL
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDDIMAF.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDDRAM.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDEDIF.DLL
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDGAS.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDHIDM.DLL
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDPLUV.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDPRJMG.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDRINC.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDSCH.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDTHOM.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDTQSEP.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.pdb
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.xml
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.pdb
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.xml
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.pdb
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.xml
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.pdb
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.xml
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbprojResolveAssemblyReference.cache
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\Interop.Library_Error.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\Interop.VBA.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.ResolveComReference.cache
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmDeleteSymbol.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLineType.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmConfigAbert.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmConfirm.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmDiagnostic.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmImport.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLoading.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmTarefa.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrCGeneral.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmCalcHidrante.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmCalcHidranteTypes.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmHomologation.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmExisteDesenho.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmInicial.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmNovoDesenho.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLegenda.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLegendaNum.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmEditorSymbol.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.Resources.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_General.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_Info.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_Project.resources
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.GenerateResource.Cache
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.dll
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.xml
+E:\Projetos\Autohidro 2018\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.pdb
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.dll.config
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.dll
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.pdb
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.xml
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.dll
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.dll
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.dll
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.pdb
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.xml
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.pdb
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.xml
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.pdb
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.xml
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.pdb
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.xml
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbprojResolveAssemblyReference.cache
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\Interop.Library_Error.dll
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\Interop.VBA.dll
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.ResolveComReference.cache
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmDeleteSymbol.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLineType.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmConfigAbert.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmConfirm.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmDiagnostic.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmImport.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLoading.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmTarefa.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrCGeneral.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmCalcHidrante.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmCalcHidranteTypes.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmHomologation.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmExisteDesenho.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmInicial.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmNovoDesenho.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLegenda.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLegendaNum.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmEditorSymbol.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.Resources.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_General.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_Info.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_Project.resources
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.GenerateResource.Cache
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.dll
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.xml
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.pdb
+E:\Projetos\Autohidro 10.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Db.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.AssemblyReference.cache
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\Interop.Library_Error.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\Interop.VBA.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.ResolveComReference.cache
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmDeleteSymbol.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLineType.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmConfigAbert.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmConfirm.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmDiagnostic.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmImport.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLoading.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmTarefa.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrCGeneral.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmCalcHidrante.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmCalcHidranteTypes.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmHomologation.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmExisteDesenho.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmInicial.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmNovoDesenho.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLegenda.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLegendaNum.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmEditorSymbol.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.Resources.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_General.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_Info.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_Project.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.GenerateResource.cache
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.dll.config
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Component.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Db.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDBOMB.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCDIA.DLL
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCESG.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCONFIG.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCRES.DLL
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDCSEL.DLL
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDDIMAF.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDDRAM.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDEDIF.DLL
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDGAS.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDHIDM.DLL
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDPLUV.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDPRJMG.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDRINC.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDSCH.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDTHOM.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AHIDTQSEP.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro 2017 - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.CopyComplete
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.dll.config
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AengeFrameworkH.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Db.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidBLL.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Library_FrameworKAP.dll.config
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Aenge.Library.Log.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.pdb
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\AhidDAL.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.AssemblyReference.cache
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\Interop.Library_Error.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\Interop.VBA.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.ResolveComReference.cache
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmDeleteSymbol.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLineType.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmConfigAbert.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmConfirm.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmDiagnostic.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmImport.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLoading.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmTarefa.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrCGeneral.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmCalcHidrante.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmCalcHidranteTypes.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmHomologation.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmExisteDesenho.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmInicial.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmNovoDesenho.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLegenda.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmLegendaNum.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.frmEditorSymbol.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.Resources.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_General.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_Info.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.UsrC_Project.resources
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.GenerateResource.cache
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.vbproj.CopyComplete
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.dll
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.xml
+D:\OneDrive\Projetos\Autohidro 9.0\AutoCad\Autohidro - Framework e Inicializacao\Library - Framework AutoCad\AengeFramework1\AengeFramework1\obj\Debug\AengeFrameworkH.pdb
